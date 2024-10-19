@@ -1,0 +1,172 @@
+{
+  "hotels": [
+    {
+      "id": 1,
+      "name": "Hotel Residence: LoTus",
+      "city": "Hyderabad, Madhapur, Gachibowli",
+      "description": "Comfort & Flexible",
+      "image": "https://images.oyoroomscdn.com/uploads/hotel_image/196886/large/fdf11f5875f59f3f.jpg",
+      "price": 1200
+    },
+    {
+      "id": 2,
+      "name": "Hotel Bhrundha: LoTus",
+      "city": "Bangalore, Whitefield, Vizag",
+      "description": "Comfort & Flexible",
+      "image": "https://images.oyoroomscdn.com/uploads/hotel_image/110830/large/5a808252142cfc23.jpg",
+      "price": 2000
+    },
+    {
+      "id": 3,
+      "name": "Hotel Raj: LoTus",
+      "city": "Hyderabad, Madhapur",
+      "description": "Comfort & Flexible",
+      "image": "https://images.oyoroomscdn.com/uploads/hotel_image/105993/medium/qbxvttwtbodp.jpg",
+      "price": 1500
+    },
+    {
+      "id": 4,
+      "name": "Hotel Lakshyu: LoTus",
+      "city": "Bangalore, Indiranagar",
+      "description": "Comfort & Flexible",
+      "image": "https://images.oyoroomscdn.com/uploads/hotel_image/227536/medium/pwbdbgxqpodd.jpg",
+      "price": 1800
+    },
+    {
+      "id": 5,
+      "name": "Hotel Raj-Ninjas: LoTus",
+      "city": "Chennai, Red Hills",
+      "description": "Comfort & Flexible",
+      "image": "https://images.oyoroomscdn.com/uploads/hotel_image/227536/medium/rfswtivnxorx.jpg",
+      "price": 1500
+    },
+    {
+      "id": 6,
+      "name": "Hotel Raj-Mahan: LoTus",
+      "city": "Bangalore, KR Puram",
+      "description": "Comfort & Flexible",
+      "image": "https://images.oyoroomscdn.com/uploads/hotel_image/227536/medium/ymrcdrrmgyqv.jpg",
+      "price": 2000
+    },
+    {
+      "id": 7,
+      "name": "Hotel Bharat: LoTus",
+      "city": "Chennai, Perumbakkam, Bangalore, Electronic City",
+      "description": "Comfort & Flexible",
+      "image": "https://images.oyoroomscdn.com/uploads/hotel_image/88914/medium/4052182a77eae71f.jpg",
+      "price": 1500
+    },
+    {
+      "id": 8,
+      "name": "Hotel Grand-New: LoTus",
+      "city": "Hyderabad, Chennai, Gopalapuram, Bangalore, Electronic City",
+      "description": "Comfort & Flexible",
+      "image": "https://images.oyoroomscdn.com/uploads/hotel_image/230018/medium/rcxxsnduapoy.jpg",
+      "price": 5000
+    },
+    {
+      "id": 9,
+      "name": "Hotel Thunder: LoTus",
+      "city": "Hyderabad",
+      "description": "Comfort & Flexible",
+      "image": "https://images.oyoroomscdn.com/uploads/hotel_image/242558/large/myoqdpdxwfhf.jpg",
+      "price": 1800
+    },
+    {
+      "id": 10,
+      "name": "Hotel Mersi: LoTus",
+      "city": "Hyderabad, Bhrundhavan Colony",
+      "description": "Comfort & Flexible",
+      "image": "https://images.oyoroomscdn.com/uploads/hotel_image/3700/large/osnyvvrruwcu.jpg",
+      "price": 5000
+    },
+    {
+      "id": 11,
+      "name": "Hotel Finco: LoTus",
+      "city": "Bangalore",
+      "description": "Comfort & Flexible",
+      "image": "https://images.oyoroomscdn.com/uploads/hotel_image/190017/large/89eb827e50aa6b1b.jpg",
+      "price": 5000
+    },
+    {
+      "id": 12,
+      "name": "Heaven's New: LoTus",
+      "city": "Hyderabad, Chennai, Bangalore",
+      "description": "Comfort & Flexible",
+      "image": "https://images.oyoroomscdn.com/uploads/hotel_image/104215/medium/ee7939638caa86d1.jpg",
+      "price": 8000
+    },
+    {
+      "id": 13,
+      "name": "Hotel Wanak: LoTus",
+      "city": "Chennai, Bangalore",
+      "description": "Comfort & Flexible",
+      "image": "https://images.oyoroomscdn.com/uploads/hotel_image/201925/large/dhwyipqancdq.jpg",
+      "price": 5000
+    },
+    {
+      "id": 14,
+      "name": "Hotel Metric: LoTus",
+      "city": "Chennai",
+      "description": "Comfort & Flexible",
+      "image": "https://images.oyoroomscdn.com/uploads/hotel_image/218716/large/pjhgswotobyx.jpg",
+      "price": 10000
+    },
+    {
+      "id": 15,
+      "name": "Hotel Atras: LoTus",
+      "city": "Chennai",
+      "description": "Comfort & Flexible",
+      "image": "https://images.oyoroomscdn.com/uploads/hotel_image/88914/large/5ada17b66cb040b3.jpg",
+      "price": 5000
+    },
+    {
+      "id": 16,
+      "name": "Hotel Mantra: LoTus",
+      "city": "Visakhapatnam, Bhanu street, Daba gardens",
+      "description": "Comfort & Flexible",
+      "image": "https://images.oyoroomscdn.com/uploads/hotel_image/112610/large/dfjhlsceiefd.jpg",
+      "price": 3500
+    },
+    {
+      "id": 17,
+      "name": "Hotel Antras: LoTus",
+      "city": "Visakhapatnam, Daba gardens",
+      "description": "Comfort & Flexible",
+      "image": "https://images.oyoroomscdn.com/uploads/hotel_image/109936/medium/qeyfvfslevsp.jpg",
+      "price": 2000
+    },
+    {
+      "id": 18,
+      "name": "Hotel Bhrunda: LoTus",
+      "city": "Visakhapatnam, MVP Colony",
+      "description": "Comfort & Flexible",
+      "image": "https://images.oyoroomscdn.com/uploads/hotel_image/113888/large/381b5fb8fd6eea72.jpg",
+      "price": 2500
+    },
+    {
+      "id": 19,
+      "name": "Hotel Bhrunda: LoTus",
+      "city": "Munnar, Chittirapuram, Chekuthan Mukku, Kerala",
+      "description": "Comfort & Flexible",
+      "image": "https://images.oyoroomscdn.com/uploads/hotel_image/235109/large/ifttueamblrg.jpg",
+      "price": 2500
+    },
+    {
+      "id": 20,
+      "name": "Hotel Mersi: LoTus",
+      "city": "Munnar, Vellathooval, Kerala",
+      "description": "Comfort & Flexible",
+      "image": "https://images.oyoroomscdn.com/uploads/hotel_image/218891/large/eotsirelmalr.jpg",
+      "price": 2500
+    },
+    {
+      "id": 21,
+      "name": "Hotel Munnar: LoTus",
+      "city": "Munnar, Devikulam, Idukki, Kerala",
+      "description": "Comfort & Flexible",
+      "image": "https://images.oyoroomscdn.com/uploads/hotel_image/17728/large/1da223f96961ddf1.jpg",
+      "price": 2500
+    }
+  ]
+}

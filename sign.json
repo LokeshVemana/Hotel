@@ -1,0 +1,46 @@
+{
+  "users": [
+    {
+      "id": "164d",
+      "firstName": "Lokesh",
+      "lastName": "Vemana",
+      "phoneNumber": "8977334640",
+      "password": "1234"
+    },
+    {
+      "id": "19df",
+      "firstName": "nani",
+      "lastName": "nikki",
+      "phoneNumber": "6301474640",
+      "password": "Raju"
+    },
+    {
+      "id": "ae82",
+      "firstName": "lakki",
+      "lastName": "raj",
+      "phoneNumber": "8985122737",
+      "password": "23456"
+    },
+    {
+      "id": "1b60",
+      "firstName": "kinnera",
+      "lastName": "balaji",
+      "phoneNumber": "1234567890",
+      "password": "7890"
+    },
+    {
+      "id": "db1e",
+      "firstName": "Lokesh",
+      "lastName": "Vemana",
+      "phoneNumber": "8977334640",
+      "password": "1234"
+    },
+    {
+      "id": "a1bc",
+      "firstName": "Maneesha",
+      "lastName": "Lokesh",
+      "phoneNumber": "9121700233",
+      "password": "Loki"
+    }
+  ]
+}

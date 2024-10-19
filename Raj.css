@@ -1,0 +1,154 @@
+.Residence {
+  font-family: Arial, sans-serif;
+}
+
+/* Carousel */
+.carousel-item img {
+  max-height: 400px;
+  width: 100%;
+}
+
+.carousel-caption p {
+  color: black;
+}
+
+/* Main Content */
+.Res {
+  background-color: #f8f8f8;
+  padding: 20px;
+  margin-bottom: 20px;
+}
+
+.Res h2 {
+  color: #333;
+}
+
+.Res p {
+  color: gray;
+}
+
+.Res select {
+  margin-bottom: 10px;
+}
+
+.Res h3 {
+  margin-top: 20px;
+}
+
+.Res b {
+  font-weight: bold;
+}
+.Res q {
+  color: black;
+}
+/* Footer */
+.footer {
+  background-color: #333;
+  color: white;
+  padding: 20px;
+}
+
+.footer h2 {
+  margin-bottom: 20px;
+}
+
+.footer .container {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.footer .container .row {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+}
+
+.footer .container .col-md-4 {
+  width: 30%;
+}
+
+.footer .container ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.footer .container a {
+  color: white;
+  text-decoration: none;
+}
+
+/* Social Media Icons */
+.social-icons {
+  display: flex;
+  justify-content: space-between;
+}
+
+.social-icons a {
+  color: white;
+  font-size: 20px;
+  margin-right: 10px;
+}
+.Pricing {
+  background-color: #f0f0f0;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  margin-bottom: 20px;
+}
+.Pricing .card-title {
+  display: flex;
+  /* align-items: center; */
+  color: orange;
+  margin-bottom: 10px;
+}
+/* .Pricing .card-text .rooms,
+  .Pricing .card-text .adults,
+  .Pricing .card-text .children {
+    margin-bottom: 10px;
+  } */
+.Pricing .card-text h3 {
+  font-size: 1rem;
+  margin-bottom: 5px;
+}
+.Pricing .card-text .rooms button {
+  background-color: #4f46e5;
+  color: white;
+  border: none;
+  padding: 5px 10px;
+  border-radius: 5px;
+  cursor: pointer;
+  margin-right: 5px;
+}
+/* .Pricing .card-text .adults button{
+    background-color: #4f46e5;
+    color: white;
+    border: none;
+    padding: 5px 10px;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-right: 5px;
+} */
+/* .Pricing .card-text .children button {
+  background-color: #4f46e5;
+  color: white;
+  border: none;
+  padding: 5px 10px;
+  border-radius: 5px;
+  cursor: pointer;
+  margin-right: 5px;
+} */
+.Pricing .card-text button {
+  background-color: #4f46e5;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.Pricing .card-text button:hover {
+  background-color: #333;
+}
+

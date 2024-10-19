@@ -1,0 +1,7 @@
+.nav-item{
+    display: flex;
+    justify-content: space-between;
+    position: relative;
+    left: 500px;
+    gap: 20px;
+}
